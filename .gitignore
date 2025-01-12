@@ -27,8 +27,8 @@ share/python-wheels/
 MANIFEST
 .venv/
 .gitignore
-/my_ssh_key
-/my_ssh_key.Pub
+my_ssh_key
+my_ssh_key.Pub
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
