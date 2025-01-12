@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 .venv/
+
 .gitignore
 my_ssh_key
 my_ssh_key.Pub
